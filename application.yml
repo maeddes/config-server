@@ -1,4 +1,4 @@
 message: Updated message - Hallo Stuttgart from remote!!!
 config:
   property: '0711'
-  source: Git Repo
+  source: My Git Repo
